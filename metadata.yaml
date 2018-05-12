@@ -1,0 +1,37 @@
+_repo: Masterpieces-of-Negro-EloquenceSlavery-to-the-Present-Time_22240
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Dunbar-Nelson, Alice Moore
+    aliases:
+    - Nelson, Alice Ruth Moore Dunbar
+    - Dunbar, Alice Moore
+    - Moore, Alice Ruth
+    birthdate: 1875
+    deathdate: 1935
+    gutenberg_agent_id: '354'
+    url: http://www.gutenberg.org/2009/agents/354
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Dunbar-Nelson
+description: ''
+gutenberg_issued: '2007-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'African Americans -- History -- Sources'
+- !lcsh 'African American orators'
+- !lcsh 'Speeches, addresses, etc., American -- African American authors'
+title: 'Masterpieces of Negro Eloquence
+
+  The Best Speeches Delivered by the Negro from the days of
+
+  Slavery to the Present Time'
+url: http://www.gutenberg.org/ebooks/22240
